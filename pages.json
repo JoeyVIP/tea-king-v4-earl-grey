@@ -1,0 +1,17 @@
+{
+  "pages": [
+    {
+      "id": "home",
+      "title": "首頁",
+      "slug": "index",
+      "filename": "index.html",
+      "seo": {
+        "meta_title": "茶裡王V4 伯爵紅茶 — 回甘，就像現泡",
+        "meta_description": "茶裡王V4 伯爵紅茶，以柔和柑橘清香融合醇厚紅茶，無糖、不苦澀，每一口都像現泡的回甘滋味。"
+      },
+      "blocks": ["hero-1", "features-1", "legend-1", "afternoon-1", "purchase-1", "contact-1"],
+      "visible": true,
+      "order": 0
+    }
+  ]
+}

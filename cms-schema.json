@@ -1,0 +1,122 @@
+{
+  "version": "1.0",
+  "sections": [
+    {
+      "key": "brand",
+      "title": "品牌資訊",
+      "icon": "Store",
+      "fields": [
+        { "key": "name", "label": "品牌名稱", "type": "text", "required": true },
+        { "key": "version", "label": "版本號", "type": "text" },
+        { "key": "slogan", "label": "品牌標語", "type": "text" },
+        { "key": "description", "label": "品牌描述", "type": "textarea" }
+      ]
+    },
+    {
+      "key": "hero",
+      "title": "主視覺 Hero",
+      "icon": "Image",
+      "fields": [
+        { "key": "eyebrow", "label": "小標（產品類型）", "type": "text" },
+        { "key": "headline", "label": "主標題", "type": "text", "required": true },
+        { "key": "subheadline", "label": "副標語", "type": "text" },
+        { "key": "cta_primary", "label": "主要按鈕文字", "type": "text" },
+        { "key": "cta_secondary", "label": "次要按鈕文字", "type": "text" }
+      ]
+    },
+    {
+      "key": "features",
+      "title": "產品特色",
+      "icon": "Star",
+      "fields": [
+        { "key": "eyebrow", "label": "區塊小標", "type": "text" },
+        { "key": "title", "label": "區塊主標", "type": "text" },
+        {
+          "key": "items",
+          "label": "特色項目",
+          "type": "repeater",
+          "fields": [
+            { "key": "title", "label": "特色名稱", "type": "text", "required": true },
+            { "key": "subtitle", "label": "英文副標", "type": "text" },
+            { "key": "description", "label": "特色說明", "type": "textarea" }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "legend",
+      "title": "好茶典故",
+      "icon": "BookOpen",
+      "fields": [
+        { "key": "eyebrow", "label": "區塊小標", "type": "text" },
+        { "key": "title", "label": "區塊主標", "type": "text" },
+        { "key": "year", "label": "年代標示", "type": "text" },
+        { "key": "circle_name", "label": "圓形標題（中文）", "type": "text" },
+        { "key": "paragraph1", "label": "典故段落一", "type": "textarea" },
+        { "key": "paragraph2", "label": "典故段落二", "type": "textarea" },
+        { "key": "quote", "label": "引言", "type": "textarea" },
+        { "key": "quote_author", "label": "引言署名", "type": "text" }
+      ]
+    },
+    {
+      "key": "afternoon",
+      "title": "午茶情境",
+      "icon": "Coffee",
+      "fields": [
+        { "key": "eyebrow", "label": "區塊小標", "type": "text" },
+        { "key": "title", "label": "區塊主標", "type": "text" },
+        { "key": "subtitle", "label": "區塊副標", "type": "textarea" },
+        { "key": "banner_quote", "label": "底部引言", "type": "textarea" },
+        {
+          "key": "scenes",
+          "label": "情境場景",
+          "type": "repeater",
+          "fields": [
+            { "key": "time", "label": "時間", "type": "text" },
+            { "key": "description", "label": "場景描述", "type": "textarea" }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "product",
+      "title": "產品購買",
+      "icon": "ShoppingCart",
+      "fields": [
+        { "key": "eyebrow", "label": "區塊小標", "type": "text" },
+        { "key": "title", "label": "區塊主標", "type": "text" },
+        { "key": "name", "label": "產品名稱", "type": "text", "required": true },
+        { "key": "subtitle", "label": "產品副標（規格）", "type": "text" },
+        { "key": "description", "label": "產品描述", "type": "textarea" },
+        { "key": "price", "label": "單價（NT$）", "type": "number" },
+        { "key": "volume", "label": "容量", "type": "text" },
+        {
+          "key": "specs",
+          "label": "產品規格標籤",
+          "type": "list"
+        },
+        { "key": "cta_text", "label": "加入購物車按鈕文字", "type": "text" }
+      ]
+    },
+    {
+      "key": "contact",
+      "title": "聯絡資訊",
+      "icon": "Phone",
+      "fields": [
+        { "key": "email", "label": "Email", "type": "email" },
+        { "key": "line_id", "label": "LINE ID", "type": "text" },
+        { "key": "service_hours", "label": "客服時間", "type": "text" }
+      ]
+    },
+    {
+      "key": "social",
+      "title": "社群連結",
+      "icon": "Share2",
+      "fields": [
+        { "key": "instagram", "label": "Instagram", "type": "url" },
+        { "key": "facebook", "label": "Facebook", "type": "url" },
+        { "key": "line_url", "label": "LINE 加好友連結", "type": "url" }
+      ]
+    }
+  ]
+}

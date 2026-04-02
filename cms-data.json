@@ -1,0 +1,87 @@
+{
+  "brand": {
+    "name": "茶裡王",
+    "version": "V4",
+    "slogan": "回甘，就像現泡",
+    "description": "茶裡王V4 伯爵紅茶，以百年英式茶文化為根，用現代工藝封存那一口柑橘與紅茶交融的美好。無糖、不苦澀，每一瓶都是對好茶的承諾。"
+  },
+  "hero": {
+    "eyebrow": "Earl Grey Tea · 伯爵紅茶",
+    "headline": "茶裡王V4",
+    "subheadline": "「回甘，就像現泡」",
+    "cta_primary": "選購茶品",
+    "cta_secondary": "探索典故"
+  },
+  "features": {
+    "eyebrow": "Three Qualities · 三大特色",
+    "title": "每一口，都是精心選擇",
+    "items": [
+      {
+        "title": "層次回甘",
+        "subtitle": "Lingering Sweetness",
+        "description": "入口即感受柑橘清香，飲後回甘在喉間緩緩蔓延——那是真正好茶才有的韻味，比現泡多一份穩定，少一分等待。"
+      },
+      {
+        "title": "零糖健康",
+        "subtitle": "Zero Sugar",
+        "description": "無糖配方，讓你純粹感受茶本身的甘甜，搭配甜點、正餐或獨飲皆宜。享受美好，不必計算代價。"
+      },
+      {
+        "title": "不苦澀",
+        "subtitle": "Smooth & Clean",
+        "description": "精選茶葉，控制茶湯萃取比例，去除多餘苦澀，只留醇和順口的茶底。一瓶在手，隨時都是最好的狀態。"
+      }
+    ]
+  },
+  "legend": {
+    "eyebrow": "Tea Legend · 好茶典故",
+    "title": "一位伯爵的偏愛，成就一款經典",
+    "year": "19c",
+    "circle_name": "格雷伯爵",
+    "paragraph1": "19 世紀英國首相查爾斯·格雷伯爵，因收到一批以佛手柑調香的特製茶葉而傾心不已。這種柑橘清香與紅茶茶底的融合，打破了當時茶飲的單調框架。",
+    "paragraph2": "格雷伯爵將此配方廣為分享，佛手柑的清新花香從此成了優雅午茶的代名詞。時至今日，伯爵紅茶仍是全球最受喜愛的調味紅茶之一。",
+    "quote": "茶裡王V4 以當代工藝，重新詮釋這份百年偏愛——讓每一瓶都留住那柑橘與紅茶相遇的瞬間。",
+    "quote_author": "茶裡王 · 品牌理念"
+  },
+  "afternoon": {
+    "eyebrow": "Afternoon Tea · 午茶時光",
+    "title": "陽光和煦的午後，最適合來一瓶",
+    "subtitle": "無論是搭配甜點、工作空檔，還是窗邊獨坐——茶裡王V4 伯爵紅茶，讓每個當下都值得細品。",
+    "banner_quote": "「陽光和煦的午後，茶裡王無糖伯爵紅茶搭配甜點的午茶饗宴，是一種剛剛好的享受。」",
+    "scenes": [
+      {
+        "time": "13:30",
+        "description": "陽光斜落的窗台旁，把冰涼的茶瓶輕靠在臉頰上，涼意先到，香氣隨後。"
+      },
+      {
+        "time": "15:00",
+        "description": "搭配一塊剛出爐的司康，抹上濃稠的德文郡奶油——伯爵紅茶天生為午茶而生。"
+      },
+      {
+        "time": "16:45",
+        "description": "工作告一段落。沒時間泡茶不是藉口，茶裡王早就備好那一口回甘等著你。"
+      }
+    ]
+  },
+  "product": {
+    "eyebrow": "Order Now · 立即選購",
+    "title": "把回甘帶回家",
+    "name": "茶裡王V4 伯爵紅茶",
+    "subtitle": "Earl Grey Tea · 580mL · 無糖",
+    "description": "精選錫蘭紅茶基底，加入天然佛手柑香料。無添加砂糖，茶湯清澈琥珀色，入口回甘，尾韻帶柑橘淡雅清香。",
+    "price": 29,
+    "volume": "580mL",
+    "specs": ["580mL", "無糖", "無防腐劑", "冷藏更佳"],
+    "cta_text": "加入購物車"
+  },
+  "contact": {
+    "email": "hello@teakingv4.com",
+    "line_id": "@teakingv4",
+    "service_hours": "週一至週五 09:00–18:00"
+  },
+  "social": {
+    "instagram": "",
+    "facebook": "",
+    "line_url": ""
+  }
+}

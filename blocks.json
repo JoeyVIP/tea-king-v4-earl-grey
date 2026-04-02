@@ -1,0 +1,10 @@
+{
+  "blocks": [
+    { "id": "hero-1", "type": "hero", "label": "主視覺", "order": 0, "visible": true, "template": "hero-centered", "data_key": "hero" },
+    { "id": "features-1", "type": "features", "label": "產品特色", "order": 1, "visible": true, "template": "features-3col", "data_key": "features" },
+    { "id": "legend-1", "type": "about", "label": "好茶典故", "order": 2, "visible": true, "template": "about-split-image", "data_key": "legend" },
+    { "id": "afternoon-1", "type": "about", "label": "午茶時光", "order": 3, "visible": true, "template": "about-dark-scenes", "data_key": "afternoon" },
+    { "id": "purchase-1", "type": "products", "label": "產品購買", "order": 4, "visible": true, "template": "product-single", "data_key": "product" },
+    { "id": "contact-1", "type": "contact", "label": "聯絡資訊", "order": 5, "visible": true, "template": "contact-footer", "data_key": "contact" }
+  ]
+}
